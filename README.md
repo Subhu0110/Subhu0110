@@ -27,7 +27,7 @@
 - 📌 NumPy  
 - 📌 Pandas  
 - 📌 Scikit-Learn  
-- 📌 MATLAB  
+- 📌 Matplot Lib  
 - 📌 Exploratory Data Analysis (EDA)  
 
 ---
