@@ -1,73 +1,78 @@
 <h1 align="center">Hi 👋, I'm Subhansh Yadav</h1>
-<h3 align="center">🚀 Aspiring Data Scientist | AI/ML Enthusiast | CSE @ IIIT Nagpur</h3>
+<h3 align="center">🚀 Aspiring Data Scientist | AI/ML Enthusiast | IIIT Nagpur</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Data+Science+Learner;Machine+Learning+Explorer;Passionate+about+AI;Always+Learning+New+Things&center=true&width=500&height=50">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Data+Science+Learner;AI%2FML+Explorer;Cricket+Analytics+Lover;Always+Learning+New+Things" />
 </p>
 
 ---
 
 ## 🌟 About Me
 - 🎓 CSE (AI & ML) @ IIIT Nagpur  
-- 📊 Passionate about **Data Science, AI & Machine Learning**  
-- 🧠 Currently learning **EDA, ML Models & Real-world Projects**  
-- ⚡ Fun fact: I love analyzing cricket data 🏏  
+- 📊 Passionate about Data Science & Machine Learning  
+- 🧠 Currently working on real-world datasets (IPL Analysis)  
+- 🏏 Love analyzing cricket data  
 
 ---
 
 ## 🚀 Tech Stack
 
 <p align="center">
-  
-<img src="https://skillicons.dev/icons?i=c,python,git,vscode" />
-
+  <img src="https://skillicons.dev/icons?i=c,python,git,vscode" />
 </p>
 
-### 📊 Data Science Stack
-- 📌 NumPy  
-- 📌 Pandas  
-- 📌 Scikit-Learn  
-- 📌 Matplot Lib  
-- 📌 Exploratory Data Analysis (EDA)  
+### 📊 Data Science Tools
+- NumPy  
+- Pandas  
+- Scikit-Learn  
+- MATLAB  
+- Exploratory Data Analysis (EDA)  
 
 ---
 
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Subhu0110&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Subhu0110&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Subhu0110&show_icons=true&theme=tokyonight&cache_seconds=1800" width="48%" />
 </p>
 
 ---
 
-## 🔥 Top Languages
+## 🔥 Streak Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Subhu0110&layout=compact&theme=radical" />
+  <img src="https://streak-stats.demolab.com?user=Subhu0110&theme=tokyonight" width="48%" />
 </p>
 
 ---
 
-## 🚀 Featured Projects
+## 🔝 Top Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Subhu0110&layout=compact&theme=tokyonight&cache_seconds=1800" />
+</p>
+
+---
+
+## 🚀 Featured Project
 
 ### 🏏 IPL Data Analysis
-- 📊 Analyzed batting & bowling datasets  
-- 📈 Extracted key performance insights  
+- 📊 Performed batting & bowling analysis  
+- 📈 Extracted performance insights  
 - ⚙️ Tools: Pandas, NumPy, EDA  
 
-🔗 [View Project](https://github.com/Subhu0110/IPL_Project)
+🔗 https://github.com/Subhu0110/IPL_Project
 
 ---
 
 ## 🧠 Currently Learning
-- 🤖 Machine Learning Algorithms  
-- 📊 Advanced Data Analysis  
-- 🧮 Statistics for Data Science  
+- Machine Learning Algorithms  
+- Advanced EDA  
+- Data Visualization  
 
 ---
 
-## 🌐 Connect with Me
+## 🌐 Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/">
@@ -80,16 +85,16 @@
 
 ---
 
-## 🎯 Profile Views
+## 👀 Profile Views
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Subhu0110&label=Profile%20views&color=blue&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=Subhu0110&label=Profile%20Views&color=blue&style=flat" />
 </p>
 
 ---
 
-## ⚡ Quote
+## ⚡ Fun Quote
 
 <p align="center">
-  <i>"Data is the new oil, but insight is the new gold."</i>
+  <i>"Turning data into insights, and insights into impact."</i>
 </p>
