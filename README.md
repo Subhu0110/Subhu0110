@@ -25,7 +25,7 @@
 - NumPy  
 - Pandas  
 - Scikit-Learn  
-- MATLAB  
+- MatPlot Lib 
 - Exploratory Data Analysis (EDA)  
 
 ---
