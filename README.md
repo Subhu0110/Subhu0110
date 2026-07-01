@@ -67,7 +67,7 @@
 - Generated insights using Python, Pandas and Matplotlib.
 - Visualized team and player performances.
 - 
-🔗 **GitHub:** 
+🔗 **GitHub:** https://github.com/Subhu0110
 
 ---
 
