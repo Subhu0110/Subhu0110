@@ -56,9 +56,9 @@
 - Performed data preprocessing, model training and evaluation.
 - Deployed the project using Streamlit.
 
-🔗 **GitHub:** *Add your GitHub repository here*
+🔗 **GitHub:** https://github.com/Subhu0110/House-Price-Prediction-Ames-Housing
 
-🌐 **Live Demo:** *Add your Streamlit link here*
+🌐 **Live Demo:** https://house-price-prediction-ames-housing-kenuylyeyvmdvtwzymzbg3.streamlit.app/
 
 ---
 
@@ -66,6 +66,8 @@
 - Performed Exploratory Data Analysis (EDA) on IPL datasets.
 - Generated insights using Python, Pandas and Matplotlib.
 - Visualized team and player performances.
+- 
+🔗 **GitHub:** 
 
 ---
 
