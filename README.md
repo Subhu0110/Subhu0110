@@ -67,7 +67,7 @@
 - Generated insights using Python, Pandas and Matplotlib.
 - Visualized team and player performances.
 - 
-🔗 **GitHub:** https://github.com/Subhu0110
+🔗 **GitHub:** https://github.com/Subhu0110/IPL_Project.git
 
 ---
 
