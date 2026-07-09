@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Subhansh Yadav</h1>
 
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1200&color=38BDF8&center=true&vCenter=true&width=750&lines=Aspiring+Data+Scientist;Machine+Learning+Enthusiast;AI+%26+ML+Undergraduate;Building+End-to-End+ML+Projects;Turning+Data+Into+Insights"/>
+</p>
+
 
 <p align="center">
 
