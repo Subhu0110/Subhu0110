@@ -1,87 +1,184 @@
 <h1 align="center">Hi 👋, I'm Subhansh Yadav</h1>
-<h3 align="center">🚀 Data Science Enthusiast | AI & ML Student @ IIIT Nagpur</h3>
+
+<h3 align="center">
+Aspiring Data Scientist | Machine Learning Enthusiast | AI & ML Undergraduate
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Data+Science+Learner;AI%2FML+Explorer;Building+Real-World+ML+Projects;Python+%7C+SQL+%7C+Scikit-Learn;Cricket+Analytics+Enthusiast;Always+Learning+New+Things" />
+Passionate about transforming raw data into meaningful insights through Machine Learning, Data Analytics, and Visualization.
 </p>
 
 ---
 
-## 🌟 About Me
+# 🚀 About Me
 
-- 🎓 B.Tech CSE (AI & ML) @ **IIIT Nagpur**
-- 📊 Passionate about **Data Science, Machine Learning & AI**
-- 💻 Building end-to-end Machine Learning projects
-- 🚀 Deployed Machine Learning applications using **Streamlit**
-- 📈 Currently learning **SQL, Data Analytics & Advanced Machine Learning**
-- 🏏 Passionate about **Cricket Analytics**
-- 🌱 Always eager to learn new technologies and solve real-world problems with data
+🎓 I'm currently pursuing **B.Tech in Computer Science & Engineering (AI & ML)** at **IIIT Nagpur**.
 
----
+📊 My primary interest lies in **Data Science**, where I enjoy solving real-world problems using data, statistics, and machine learning.
 
-## 🚀 Tech Stack
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode" />
-
-<br><br>
-
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
-
-</p>
-
----
-
-## 🚀 Featured Projects
-
-### 🏦 Loan Approval Prediction
-- Compared multiple Machine Learning models.
-- Selected the best-performing model based on evaluation metrics.
-- Built an interactive Streamlit web application.
-- End-to-end ML workflow from preprocessing to deployment.
-
-🔗 **GitHub:** https://github.com/Subhu0110/Loan_Approval_Project_ML
-
-🌐 **Live Demo:** https://loanapprovalprojectml-6h9lfkp3ktcowtnksvfupq.streamlit.app/
-
----
-
-### 🏠 House Price Prediction
-- Built a regression-based Machine Learning model for predicting house prices.
-- Performed data preprocessing, model training and evaluation.
-- Deployed the project using Streamlit.
-
-🔗 **GitHub:** https://github.com/Subhu0110/House-Price-Prediction-Ames-Housing
-
-🌐 **Live Demo:** https://house-price-prediction-ames-housing-kenuylyeyvmdvtwzymzbg3.streamlit.app/
-
----
-
-### 🏏 IPL Data Analysis
-- Performed Exploratory Data Analysis (EDA) on IPL datasets.
-- Generated insights using Python, Pandas and Matplotlib.
-- Visualized team and player performances.
-- 
-🔗 **GitHub:** https://github.com/Subhu0110/IPL_Project.git
-
----
-
-## 📈 Currently Learning
-
-- SQL
+💻 I have built multiple end-to-end Machine Learning projects involving:
+- Data Cleaning & Preprocessing
+- Exploratory Data Analysis (EDA)
 - Feature Engineering
-- Data Visualization
+- Model Training & Evaluation
+- Hyperparameter Tuning
+- Streamlit Deployment
+
+🌱 I'm currently expanding my knowledge in:
+- SQL (PostgreSQL)
+- Natural Language Processing (NLP)
+- FastAPI
+- Docker
 - Advanced Machine Learning
-- Model Evaluation
+
+📈 I enjoy working with datasets, discovering hidden patterns, and building predictive models that can support data-driven decision making.
+
+🏏 Beyond technology, I have a keen interest in **Sports Analytics**, where I hope to combine AI and Machine Learning with cricket and other sports in the future.
+
+🎯 **Career Goal**
+
+To become a **Data Scientist** specializing in Machine Learning and AI-powered Sports Analytics while continuously learning modern technologies used in the industry.
 
 ---
 
-## 📊 GitHub Stats
+# 💻 Tech Stack
+
+## 👨‍💻 Programming Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,c,sql"/>
+</p>
+
+---
+
+## 📊 Data Science & Machine Learning
+
+- Python
+- NumPy
+- Pandas
+- Matplotlib
+- Plotly
+- Scikit-Learn
+- Statistics
+- Machine Learning
+- Data Analysis
+- Data Visualization
+- Feature Engineering
+- Model Evaluation
+- Hyperparameter Tuning
+
+---
+
+## 🗄 Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mysql"/>
+</p>
+
+---
+
+## 🌐 Web & Deployment
+
+<p>
+<img src="https://skillicons.dev/icons?i=streamlit,html,css,flask"/>
+</p>
+
+---
+
+## 🛠 Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,anaconda"/>
+</p>
+
+---
+
+# 📂 Featured Projects
+
+## 🏠 House Price Prediction
+
+An end-to-end regression project developed using the Ames Housing dataset to predict residential property prices.
+
+### Highlights
+- Extensive Data Cleaning & Preprocessing
+- Feature Engineering
+- Multiple Regression Models
+- Hyperparameter Tuning using RandomizedSearchCV
+- Random Forest Regressor with excellent predictive performance
+- Interactive Streamlit Web Application
+
+**Tech Used**
+
+Python • Pandas • NumPy • Scikit-Learn • Plotly • Streamlit
+
+---
+
+## 💰 Loan Approval Prediction
+
+A complete machine learning classification project that predicts loan approval status based on applicant information.
+
+### Highlights
+
+- Missing Value Treatment
+- Feature Encoding
+- Model Comparison
+- Random Forest
+- Decision Tree
+- Logistic Regression
+- SVM
+- Naive Bayes
+- Ensemble Learning
+- Streamlit Deployment
+
+**Tech Used**
+
+Python • Pandas • Scikit-Learn • Streamlit
+
+---
+
+## ❤️ Heart Stroke Prediction
+
+A healthcare-focused machine learning project developed to predict the likelihood of stroke based on patient health indicators.
+
+### Highlights
+
+- Data Cleaning
+- Feature Engineering
+- Classification Models
+- Performance Evaluation
+- Streamlit Interface
+
+---
+
+## 🏏 IPL Data Analysis
+
+An interactive cricket analytics project built using IPL datasets.
+
+### Highlights
+
+- Exploratory Data Analysis
+- Player Performance Analysis
+- Batting & Bowling Statistics
+- Interactive Plotly Visualizations
+- Cricket Insights through Data
+
+---
+
+# 📚 Currently Learning
+
+✔ SQL (PostgreSQL)
+
+✔ Natural Language Processing
+
+✔ FastAPI
+
+✔ Docker
+
+✔ Advanced Machine Learning
+
+---
+
+# 📈 GitHub Stats
 
 <p align="center">
 
@@ -99,7 +196,17 @@
 
 ---
 
-## 🏆 GitHub Trophies
+# 📊 GitHub Activity
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Subhu0110&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
 
 <p align="center">
 
@@ -109,7 +216,7 @@
 
 ---
 
-## 🌐 Connect With Me
+# 🌐 Connect With Me
 
 <p align="center">
 
@@ -118,7 +225,7 @@
 </a>
 
 <a href="mailto:subhanshyadav2006@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://github.com/Subhu0110">
@@ -138,5 +245,9 @@
 ---
 
 <p align="center">
-<i>"Turning data into insights, one project at a time."</i>
+
+<i>
+"Turning data into intelligent solutions, one model at a time."
+</i>
+
 </p>
