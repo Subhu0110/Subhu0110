@@ -63,6 +63,12 @@
 
 ## 📂 Featured Projects
 
+### 💳 Credit Card Fraud Detection
+
+[![Repository](https://img.shields.io/badge/📂_GitHub_Repository-181717?style=for-the-badge&logo=github)](https://github.com/Subhu0110/Credit-Card-Fraud-Detection)
+
+---
+
 ### 🏡 House Price Prediction
 
 [![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-Streamlit-red?style=for-the-badge)](https://house-price-prediction-ames-housing-kenuylyeyvmdvtwzymzbg3.streamlit.app/)
