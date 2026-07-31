@@ -63,6 +63,11 @@
 
 ## 📂 Featured Projects
 
+### 🏏 IPL Win Probability Predictor using Machine Learning
+
+[![Repository](https://img.shields.io/badge/📂_GitHub_Repository-181717?style=for-the-badge&logo=github)](https://github.com/Subhu0110/IPL-Match-Prediction-Project)
+
+---
 ### 💳 Credit Card Fraud Detection
 
 [![Repository](https://img.shields.io/badge/📂_GitHub_Repository-181717?style=for-the-badge&logo=github)](https://github.com/Subhu0110/Credit-Card-Fraud-Detection)
