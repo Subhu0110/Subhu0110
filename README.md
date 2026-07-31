@@ -133,11 +133,7 @@
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-</p>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Subhu0110&show_icons=true&theme=tokyonight"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Subhu0110&layout=compact&theme=tokyonight"/>
 
 </p>
 
