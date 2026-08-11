@@ -82,6 +82,14 @@
 
 ---
 
+### 📰News Classifier — NLP & Machine Learning
+
+[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-Streamlit-red?style=for-the-badge)](https://newsclassifier-subhu0110.streamlit.app/)
+
+[![Repository](https://img.shields.io/badge/📂_GitHub_Repository-181717?style=for-the-badge&logo=github)](https://github.com/Subhu0110/NewsClassifier)
+
+---
+
 ### 🏦 Loan Approval Prediction
 
 [![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-Streamlit-red?style=for-the-badge)](https://loanapprovalprojectml-6h9lfkp3ktcowtnksvfupq.streamlit.app/)
