@@ -15,7 +15,7 @@
 
 📊 Aspiring **Data Scientist** passionate about **Machine Learning, Data Analysis, and Predictive Modeling**
 
-🌱 Currently learning **SQL (PostgreSQL), NLP, FastAPI & Docker**
+🌱 Currently learning **Deep Learning Fundamentals**
 
 💡 Interested in **Machine Learning, Data Science, Sports Analytics & Artificial Intelligence**
 
